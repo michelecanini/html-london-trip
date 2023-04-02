@@ -1,0 +1,54 @@
+body{
+    background-color: #212121;
+    color: white;
+}
+
+.container{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    border: white 1px solid;
+    border-radius: 20px;
+}
+
+h1, h2, h3{
+    color: #007bff;
+    text-align: center;
+}
+
+main > section{
+    align-content: center;
+    width: 100%;
+    margin: auto;
+}
+
+.center{
+    margin: auto;
+    display: inline-block;
+     text-align: left;
+}
+
+header, footer{
+    text-align: center;
+}
+
+th, td {
+    border: 1px solid #007bff;
+    border-radius: 5px;
+}
+
+span.red{
+    color: red;
+}
+
+span.green{
+    color: green;
+}
+
+strong.red{
+   color: red;
+}
+
+strong.green{
+    color: green;
+ }
